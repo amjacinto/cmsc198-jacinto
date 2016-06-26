@@ -1,0 +1,19 @@
+# June Week 4
+## Todo
+- Slides for Ubuntu Introduction
+- Handouts for Ubuntu Introduction
+- Ubuntu Orientation. Give an orientation to the staff of Euro Products about Ubuntu.
+- Gather Data for Web App. Go to Sta. Rosa to check the process of inventory of products.
+- Gantt Chart. We needed a complete list of features for the users of the web app.
+## Done
+- Slides for Ubuntu Introduction (4 hours)
+- Handouts for Ubuntu Introduction (4 hours)
+- Gathering of Data. Went  to Sta. Rosa and interviewed people important in the process of inventory and gathered forms used in keeping track of the inventory. (1 day)
+- Gantt Chart. We summarized the features list in the morning and created a Gantt chart in the afternoon. (1 day)
+## To be done
+- Database for the Web App.
+- Ubuntu Orientation
+## Things learned
+- Always communicate with the person in charge.
+## Hardest task done this week
+- Starting the project. We are still reviewing for MeteorJS and it was hard to start the project with knowing little of it.
